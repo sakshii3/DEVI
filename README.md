@@ -1,1 +1,5 @@
-# DEVI
+Accustomed to the seamless convenience of a voice assistant on my phone, I embarked on a mission to replicate that experience on my laptop, only to encounter some bumps in the road. This hiccup sparked the inception of an innovative solution - introducing DEVI- Digitally Expert Voice Intelligent, your personalized voice assistant.
+
+DEVI revolutionizes the user experience by harnessing the power of voice input/output, creating an intuitive interaction platform. This dynamic assistant allows users to effortlessly schedule meetings, manage emails efficiently, control music playback, and seamlessly integrate with web players, all geared towards streamlining tasks and enhancing productivity.
+
+What sets DEVI apart is its user-friendly approach; no coding expertise is required. Users have the flexibility to add customized commands, tailoring the assistant to meet their specific needs. DEVI is not just a voice assistant; it's a tailored, adaptable companion designed to make your digital interactions smoother and more efficient. Welcome to a new era of intuitive and personalized technology
